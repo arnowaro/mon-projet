@@ -1,0 +1,25 @@
+*{margin: 0% ; padding: 0%; box-sizing: border-box;}
+
+body {
+    background-color: #471307;
+    color: #9c5b26;
+display: flex;
+    justify-content: center;
+    text-justify: center;
+    text-align: center;
+    align-content: center;}
+
+
+.sectionwrapper {justify-content: center; align-content: center;}
+ body .sectionmerci { display: flex;}
+
+.sectionmerci { margin-top:80px ;display: flex; 
+    flex-direction:row;  justify-content: center; align-content: center;}
+
+    .containermerci { justify-content: center; align-content: center ; padding: 10%; margin-top: 15%;}
+    .containermerci h1 {font-size: 5vh;}
+
+    .json { display: flex;
+        justify-content: center;
+        align-content: center;
+       }
